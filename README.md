@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on webQuest as a fullstack developer
+- 🔭 I’m currently working on webQuest (Phuket) as a fullstack developer
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on open-source
 - 🛠 Go, VueJS, React, PHP , Microservices, Microfrontend
