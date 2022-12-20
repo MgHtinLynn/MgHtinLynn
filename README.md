@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on webQuest (Phuket) as a fullstack developer
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on open-source
-- 🛠 Go, VueJS, React, PHP , Microservices, Microfrontend
+- 🛠 Go, VueJS, React, PHP , Microservices, Microfrontend, TALL Tack
 - 💬 Ask me about, I'm happy to help
 - 📫 How to reach me: htinlin01@gmail.com
 - 😄 Pronouns: Lynn
