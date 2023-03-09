@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on webQuest (Phuket) as a fullstack developer
-- 🌱 I’m currently learning golang
+- 🔭 I’m currently working on FazWaz (Bangkok) as a fullstack developer
+- 🌱 I’m currently learning golang and NextJS
 - 👯 I’m looking to collaborate on open-source
 - 🛠 Go, VueJS, React, PHP , Microservices, Microfrontend, TALL Tack
 - 💬 Ask me about, I'm happy to help
